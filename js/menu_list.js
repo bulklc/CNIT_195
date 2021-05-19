@@ -121,17 +121,17 @@ var menu_list = [
         "description": "For Family, Friends, and all lovers of Javalicious",
         "Price": ["$5.00","$10.00","$20.00","$50.00"],
         "image_url": "images/gift-card.png",
-    }//,
+    },
     
-       // {
-       // "id": 12,
-       // "name": "Granola",
-       // "category":"food", 
-       // "description": "Fresh, toasted oats, nuts and dried fruit.",
-       // "Price": ["Small - $5.00","Medium - $10.00","Large - $15.00"],
-       // "Milk": ["None","2%","Whole","Almond","Soy"],
-       // "Fruit": ["Blueberries","Strawberries","Banana"],
-       // "image_url": "images/granola.jpg",
+        {
+        "id": 12,
+        "name": "Granola",
+        "category":"food", 
+        "description": "Fresh, toasted oats, nuts and dried fruit.",
+        "Price": ["Small - $5.00","Medium - $10.00","Large - $15.00"],
+        "Milk": ["None","2%","Whole","Almond","Soy"],
+        "Fruit": ["Blueberries","Strawberries","Banana"],
+        "image_url": "images/granola.jpg",
     //}  
 
 ];
